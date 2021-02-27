@@ -12,7 +12,7 @@ pool:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: '9420c347-e560-48a9-9544-38ec73389cd0'
+  azureServiceConnectionId: 'ashok-apps.mslearn-python-django'
   
   # Web app name
   webAppName: 'python-cicd-1722'

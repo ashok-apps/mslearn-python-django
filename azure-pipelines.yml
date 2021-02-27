@@ -12,7 +12,7 @@ pool:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'b58ce1e7-d01e-4b98-b79e-79b5867ff14e'
+  azureServiceConnectionId: '9420c347-e560-48a9-9544-38ec73389cd0'
   
   # Web app name
   webAppName: 'python-cicd-1722'
